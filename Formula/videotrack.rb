@@ -1,12 +1,12 @@
 class Videotrack < Formula
   desc "Professional video processing tool with filters, overlays, and anonymization"
   homepage "https://github.com/shyamalschandra/videotrack-releases"
-  version "1.0.2"
+  version "1.0.3"
   
   # For proprietary software, you would typically host the binary on your own server
   # or use GitHub releases with private access
-  url "https://github.com/shyamalschandra/videotrack-releases/releases/download/v1.0.2/videotrack-1.0.2.tar.gz"
-  sha256 "a6be4697c00e5eba8f7cb88edb8e85f08f7b43b07aeaa93a76a4cfd8cdfaf070" # Replace with actual SHA256 hash after building
+  url "https://github.com/shyamalschandra/videotrack-releases/releases/download/v1.0.3/videotrack-1.0.2.tar.gz"
+  sha256 "983ad18ad4fd5138a91b76d38707fe803155d9ac741df532a069253af052683f" # Replace with actual SHA256 hash after building
   
   depends_on :macos
   
