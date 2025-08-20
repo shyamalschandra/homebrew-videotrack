@@ -5,8 +5,8 @@ class Videotrack < Formula
   
   # For proprietary software, you would typically host the binary on your own server
   # or use GitHub releases with private access
-  url "https://github.com/shyamalschandra/videotrack-releases/releases/download/v1.0.3/videotrack-1.0.2.tar.gz"
-  sha256 "983ad18ad4fd5138a91b76d38707fe803155d9ac741df532a069253af052683f" # Replace with actual SHA256 hash after building
+  url "https://github.com/shyamalschandra/videotrack-releases/releases/download/v1.0.3/videotrack-1.0.3.tar.gz"
+  sha256 "fa0d6f7664609c3df0f466ec5d59235dac4337ae81219954afc79ac2408900f9" # Replace with actual SHA256 hash after building
   
   depends_on :macos
   
